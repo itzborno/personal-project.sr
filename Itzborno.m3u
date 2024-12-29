@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png” group-title=”Bangla”, ZEE BANGLA
+http://172.16.29.2:8090/hls/zeebanglahd.m3u8
